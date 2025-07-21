@@ -11,8 +11,10 @@ public:
             {
                 st.push(ch);
             }
+            //now check close parenthesis
            else
            {
+            //always remember to check empty stack or not
                 if(ch == ')' && !st.empty() && st.top() == '(')
                 {
                     st.pop();
@@ -34,7 +36,7 @@ public:
            }
 
         }
-
+        // check if it is empty or not
         if(st.size() == 0)
         {
             return true;
