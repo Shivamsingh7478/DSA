@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shivamsingh7478/DSA/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivamsingh7478/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0283-move-zeroes](https://github.com/Shivamsingh7478/DSA/tree/master/0283-move-zeroes) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Shivamsingh7478/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## String
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Shivamsingh7478/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Shivamsingh7478/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
