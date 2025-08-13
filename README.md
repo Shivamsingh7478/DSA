@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shivamsingh7478/DSA/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivamsingh7478/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0283-move-zeroes](https://github.com/Shivamsingh7478/DSA/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Shivamsingh7478/DSA/tree/master/0496-next-greater-element-i) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Shivamsingh7478/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Shivamsingh7478/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 ## String
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shivamsingh7478/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivamsingh7478/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Shivamsingh7478/DSA/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Shivamsingh7478/DSA/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Shivamsingh7478/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Shivamsingh7478/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivamsingh7478/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/Shivamsingh7478/DSA/tree/master/0496-next-greater-element-i) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Shivamsingh7478/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 ## Design
 |  |
@@ -53,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Shivamsingh7478/DSA/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shivamsingh7478/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
