@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Shivamsingh7478/DSA/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/Shivamsingh7478/DSA/tree/master/0283-move-zeroes) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shivamsingh7478/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Shivamsingh7478/DSA/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Shivamsingh7478/DSA/tree/master/0206-reverse-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Shivamsingh7478/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 ## Recursion
