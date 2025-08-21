@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shivamsingh7478/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shivamsingh7478/DSA/tree/master/0020-valid-parentheses) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/Shivamsingh7478/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Shivamsingh7478/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Shivamsingh7478/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Shivamsingh7478/DSA/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/Shivamsingh7478/DSA/tree/master/0937-online-stock-span) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/Shivamsingh7478/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Shivamsingh7478/DSA/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Shivamsingh7478/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
