@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shivamsingh7478/DSA/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/Shivamsingh7478/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivamsingh7478/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0283-move-zeroes](https://github.com/Shivamsingh7478/DSA/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Shivamsingh7478/DSA/tree/master/0496-next-greater-element-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Shivamsingh7478/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Shivamsingh7478/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Shivamsingh7478/DSA/tree/master/0283-move-zeroes) |
 ## Linked List
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Shivamsingh7478/DSA/tree/master/0937-online-stock-span) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shivamsingh7478/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
