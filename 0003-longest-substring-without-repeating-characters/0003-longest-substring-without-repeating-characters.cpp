@@ -13,8 +13,9 @@ public:
                 j++;
             }
             st.insert(s[i]);
-            maxLen = max(maxLen, i-j+1);
+            maxLen = max(maxLen, (int)st.size());
         }
         return maxLen;
+        // return st.size();
     }
 };
