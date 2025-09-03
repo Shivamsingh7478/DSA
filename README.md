@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shivamsingh7478/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shivamsingh7478/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Shivamsingh7478/DSA/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Shivamsingh7478/DSA/tree/master/0392-is-subsequence) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Shivamsingh7478/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Shivamsingh7478/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Trie
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shivamsingh7478/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Shivamsingh7478/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shivamsingh7478/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Shivamsingh7478/DSA/tree/master/0392-is-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shivamsingh7478/DSA/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Shivamsingh7478/DSA/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
