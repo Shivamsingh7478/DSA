@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamsingh7478/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Shivamsingh7478/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shivamsingh7478/DSA/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Shivamsingh7478/DSA/tree/master/0125-valid-palindrome) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Shivamsingh7478/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Shivamsingh7478/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Trie
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamsingh7478/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/Shivamsingh7478/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Shivamsingh7478/DSA/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Shivamsingh7478/DSA/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Shivamsingh7478/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shivamsingh7478/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
