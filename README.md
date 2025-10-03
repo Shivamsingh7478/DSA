@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivamsingh7478/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Shivamsingh7478/DSA/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivamsingh7478/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/Shivamsingh7478/DSA/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/Shivamsingh7478/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Shivamsingh7478/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivamsingh7478/DSA/tree/master/0283-move-zeroes) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shivamsingh7478/DSA/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Shivamsingh7478/DSA/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
