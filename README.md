@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shivamsingh7478/DSA/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivamsingh7478/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Shivamsingh7478/DSA/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/Shivamsingh7478/DSA/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Shivamsingh7478/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Shivamsingh7478/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shivamsingh7478/DSA/tree/master/0283-move-zeroes) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamsingh7478/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Shivamsingh7478/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shivamsingh7478/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Shivamsingh7478/DSA/tree/master/0496-next-greater-element-i) |
 ## Data Stream
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Shivamsingh7478/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shivamsingh7478/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Shivamsingh7478/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shivamsingh7478/DSA/tree/master/0268-missing-number) |
 ## Database
 |  |
@@ -185,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivamsingh7478/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivamsingh7478/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Shivamsingh7478/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
