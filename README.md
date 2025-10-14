@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivamsingh7478/DSA/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Shivamsingh7478/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Shivamsingh7478/DSA/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Shivamsingh7478/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Shivamsingh7478/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shivamsingh7478/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Shivamsingh7478/DSA/tree/master/0496-next-greater-element-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shivamsingh7478/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shivamsingh7478/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shivamsingh7478/DSA/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Shivamsingh7478/DSA/tree/master/0274-h-index) |
 ## Database
 |  |
 | ------- |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivamsingh7478/DSA/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Shivamsingh7478/DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
