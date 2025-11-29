@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shivamsingh7478/DSA/tree/master/0496-next-greater-element-i) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Shivamsingh7478/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Shivamsingh7478/DSA/tree/master/1072-next-greater-node-in-linked-list) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shivamsingh7478/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## String
 |  |
 | ------- |
