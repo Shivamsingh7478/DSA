@@ -1,16 +1,21 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int k =0;
+        HashSet<Integer> seen = new HashSet<>();
 
-        for(int i=0;i<nums.length;i++)
+        int index =0;
+
+        for(int num : nums)
         {
-            if(nums[i] != nums[k])
+            if(!seen.contains(num))
             {
-                k++;
-                nums[k] = nums[i];
+                seen.add(num);
+
+                nums[index] = num;
+
+                index++;
             }
         }
 
-        return k+1;
+        return index;
     }
 }
