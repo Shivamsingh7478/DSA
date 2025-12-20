@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivamsingh7478/DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Shivamsingh7478/DSA/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Shivamsingh7478/DSA/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
