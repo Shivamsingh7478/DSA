@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shivamsingh7478/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shivamsingh7478/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Shivamsingh7478/DSA/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Shivamsingh7478/DSA/tree/master/0206-reverse-linked-list) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shivamsingh7478/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shivamsingh7478/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Shivamsingh7478/DSA/tree/master/0206-reverse-linked-list) |
 ## Hash Table
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shivamsingh7478/DSA/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Shivamsingh7478/DSA/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
