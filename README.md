@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shivamsingh7478/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Shivamsingh7478/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Shivamsingh7478/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shivamsingh7478/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Shivamsingh7478/DSA/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Shivamsingh7478/DSA/tree/master/0392-is-subsequence) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/Shivamsingh7478/DSA/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shivamsingh7478/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Shivamsingh7478/DSA/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivamsingh7478/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Shivamsingh7478/DSA/tree/master/0392-is-subsequence) |
 ## Queue
@@ -241,5 +243,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shivamsingh7478/DSA/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/Shivamsingh7478/DSA/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
