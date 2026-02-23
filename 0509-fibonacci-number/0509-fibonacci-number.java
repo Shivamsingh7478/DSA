@@ -18,9 +18,31 @@ class Solution {
         memo[n] = febRec(n-1, memo) + febRec(n-2, memo);
         return memo[n];
     }
-    public int fib(int n) {
+
+    static int solveTabulation(int n)
+    {
         int[] memo = new int[n+1];
-        Arrays.fill(memo, -1);
-        return febRec(n, memo);
+
+        memo[0] = 0;
+        if(n==0)
+        {
+            return 0;
+        }
+        memo[1] = 1;
+
+        for(int i=2;i<= n;i++)
+        {
+            memo[i] = memo[i-1]+memo[i-2];
+
+        }
+
+        return memo[n];
+    }
+    public int fib(int n) {
+        // int[] memo = new int[n+1];
+        // Arrays.fill(memo, -1);
+        // return febRec(n, memo);
+
+        return solveTabulation(n);
     }
 }
