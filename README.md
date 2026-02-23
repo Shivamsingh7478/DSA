@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Shivamsingh7478/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shivamsingh7478/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Shivamsingh7478/DSA/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Shivamsingh7478/DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Shivamsingh7478/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shivamsingh7478/DSA/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Shivamsingh7478/DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Shivamsingh7478/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shivamsingh7478/DSA/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivamsingh7478/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Shivamsingh7478/DSA/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Shivamsingh7478/DSA/tree/master/0509-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shivamsingh7478/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivamsingh7478/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shivamsingh7478/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shivamsingh7478/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
