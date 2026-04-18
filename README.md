@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Shivamsingh7478/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Shivamsingh7478/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shivamsingh7478/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Shivamsingh7478/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Shivamsingh7478/DSA/tree/master/0496-next-greater-element-i) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Shivamsingh7478/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Shivamsingh7478/DSA/tree/master/1072-next-greater-node-in-linked-list) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Shivamsingh7478/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Shivamsingh7478/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shivamsingh7478/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Shivamsingh7478/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Shivamsingh7478/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Shivamsingh7478/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shivamsingh7478/DSA/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivamsingh7478/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Shivamsingh7478/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Shivamsingh7478/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Shivamsingh7478/DSA/tree/master/0509-fibonacci-number) |
 ## Queue
